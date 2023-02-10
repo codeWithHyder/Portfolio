@@ -248,7 +248,7 @@ const projects = [
   project4,
   project1,
   project5,
-  project6,
+  project6
 ];
 
 projects.className = 'projects';
